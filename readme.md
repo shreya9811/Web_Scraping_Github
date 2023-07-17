@@ -1,0 +1,1 @@
+This is a web scraping project which takes 3 topic from github topics and extract 8 repositories from it, after that it creates a folder for eache topic and dile name of eache repository which holds all the issues of the repo
